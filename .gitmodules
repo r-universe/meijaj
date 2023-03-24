@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CIAAWconsensus"]
+	path = CIAAWconsensus
+	url = https://github.com/cran/CIAAWconsensus
+	shallow = true
+	registered = true
